@@ -1,6 +1,4 @@
-package LocalRepo;
-
-public class first {
+public class second {
     public static void main(String[] args) {
         System.out.println("Hello dosto");
     }
